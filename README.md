@@ -58,15 +58,6 @@ databases = ["PostgreSQL", "MongoDB", "Supabase"]
 - 💭 I believe the best code is the code that makes someone's life easier
 
 ---
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mr-Dark-debug&theme=radical" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on interesting projects, discuss AI/ML, or just chat about tech over virtual coffee! Feel free to reach out:
@@ -93,4 +84,3 @@ I'm always excited to collaborate on interesting projects, discuss AI/ML, or jus
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   <i>Thanks for visiting! Feel free to star my repositories if you find them useful ⭐</i>
 </div>
-```
