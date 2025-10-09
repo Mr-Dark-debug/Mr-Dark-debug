@@ -18,7 +18,7 @@ I'm a passionate AI/ML Engineer from India who loves turning complex problems in
 - 💼 **Jr. AI/ML Engineer** at [Proposal.biz](https://proposal.biz)
 - 🌱 **Software Testing Enthusiast** (because someone's gotta find those bugs!)
 - 📍 Based in **India**, but my code travels the world 🌍
-- 🐦 Twitter: [@prashantooo](https://twitter.com/prashantooo)
+- 🐦 Twitter: [@prashantooo](https://twitter.com/prashanttto)
 - 📷 Instagram: [@dxs_prashant](https://instagram.com/dxs_prashant)
 
 ---
