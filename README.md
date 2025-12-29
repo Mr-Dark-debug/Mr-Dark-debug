@@ -19,7 +19,7 @@ I'm a passionate AI/ML Engineer from India who loves turning complex problems in
 - 🌱 **Software Testing Enthusiast** (because someone's gotta find those bugs!)
 - 📍 Based in **India**, but my code travels the world 🌍
 - 🐦 Twitter: [@prashantooo](https://twitter.com/prashanttto)
-- 📷 Instagram: [@dxs_prashant](https://instagram.com/dxs_prashant)
+- 📷 Instagram: [@prashantttooooo](https://instagram.com/prashantttooooo)
 
 ---
 
@@ -76,7 +76,7 @@ I'm always excited to collaborate on interesting projects, discuss AI/ML, or jus
 ## 📝 Quote of the Day
 
 > *"But all endings are also beginnings. We just don't know it at the time."*  
-> - @dxs_prashant (my Instagram bio, because deep thoughts happen there too)
+> - @prashantttooooo (my Instagram bio, because deep thoughts happen there too)
 
 ---
 
