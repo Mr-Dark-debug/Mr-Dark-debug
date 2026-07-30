@@ -1,0 +1,48 @@
+name: Refresh profile contribution art
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contribution-art
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Fetch public contribution data
+        run: python scripts/fetch_contributions.py --username Mr-Dark-debug --output data/contributions.json
+
+      - name: Render contribution heatmap
+        run: python scripts/render_heatmap_svg.py --input data/contributions.json --output generated/contrib-heatmap.svg
+
+      - name: Validate generated profile
+        run: python scripts/validate_profile.py
+
+      - name: Commit refreshed art when changed
+        shell: bash
+        run: |
+          git add data/contributions.json generated/contrib-heatmap.svg
+          if git diff --cached --quiet; then
+            echo "Contribution art is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile contribution art [skip ci]"
+          git push
