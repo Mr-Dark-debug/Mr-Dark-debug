@@ -1,18 +1,18 @@
 {
   "username": "Mr-Dark-debug",
-  "generated_at": "2026-08-22T00:00:00Z",
-  "as_of": "2026-08-22",
+  "generated_at": "2026-08-23T00:00:00Z",
+  "as_of": "2026-08-23",
   "range": {
-    "start": "2025-08-17",
-    "end": "2026-08-22"
+    "start": "2025-08-24",
+    "end": "2026-08-23"
   },
   "grid_range": {
-    "start": "2025-08-17",
-    "end": "2026-08-22"
+    "start": "2025-08-24",
+    "end": "2026-08-29"
   },
-  "total_contributions": 4442,
-  "active_days": 165,
-  "average_on_active_days": 26.9,
+  "total_contributions": 4433,
+  "active_days": 162,
+  "average_on_active_days": 27.4,
   "current_streak": {
     "length": 0,
     "start": null,
@@ -30,7 +30,7 @@
   "monthly_totals": [
     {
       "month": "2025-08",
-      "total": 9
+      "total": 0
     },
     {
       "month": "2025-09",
@@ -82,34 +82,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-08-17",
-      "count": 0
-    },
-    {
-      "date": "2025-08-18",
-      "count": 1
-    },
-    {
-      "date": "2025-08-19",
-      "count": 0
-    },
-    {
-      "date": "2025-08-20",
-      "count": 7
-    },
-    {
-      "date": "2025-08-21",
-      "count": 0
-    },
-    {
-      "date": "2025-08-22",
-      "count": 1
-    },
-    {
-      "date": "2025-08-23",
-      "count": 0
-    },
     {
       "date": "2025-08-24",
       "count": 0
@@ -1564,6 +1536,34 @@
     },
     {
       "date": "2026-08-22",
+      "count": 0
+    },
+    {
+      "date": "2026-08-23",
+      "count": 0
+    },
+    {
+      "date": "2026-08-24",
+      "count": 0
+    },
+    {
+      "date": "2026-08-25",
+      "count": 0
+    },
+    {
+      "date": "2026-08-26",
+      "count": 0
+    },
+    {
+      "date": "2026-08-27",
+      "count": 0
+    },
+    {
+      "date": "2026-08-28",
+      "count": 0
+    },
+    {
+      "date": "2026-08-29",
       "count": 0
     }
   ]
