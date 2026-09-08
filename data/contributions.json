@@ -1,10 +1,10 @@
 {
   "username": "Mr-Dark-debug",
-  "generated_at": "2026-09-07T00:00:00Z",
-  "as_of": "2026-09-07",
+  "generated_at": "2026-09-08T00:00:00Z",
+  "as_of": "2026-09-08",
   "range": {
     "start": "2025-09-07",
-    "end": "2026-09-07"
+    "end": "2026-09-08"
   },
   "grid_range": {
     "start": "2025-09-07",
@@ -14,9 +14,9 @@
   "active_days": 174,
   "average_on_active_days": 26.0,
   "current_streak": {
-    "length": 3,
-    "start": "2026-09-04",
-    "end": "2026-09-06"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 17,
