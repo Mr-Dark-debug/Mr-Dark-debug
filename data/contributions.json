@@ -1,22 +1,22 @@
 {
   "username": "Mr-Dark-debug",
-  "generated_at": "2026-09-17T00:00:00Z",
-  "as_of": "2026-09-17",
+  "generated_at": "2026-09-18T00:00:00Z",
+  "as_of": "2026-09-18",
   "range": {
     "start": "2025-09-14",
-    "end": "2026-09-17"
+    "end": "2026-09-18"
   },
   "grid_range": {
     "start": "2025-09-14",
     "end": "2026-09-19"
   },
-  "total_contributions": 4560,
+  "total_contributions": 4559,
   "active_days": 181,
   "average_on_active_days": 25.2,
   "current_streak": {
-    "length": 1,
-    "start": "2026-09-16",
-    "end": "2026-09-16"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 17,
@@ -30,7 +30,7 @@
   "monthly_totals": [
     {
       "month": "2025-09",
-      "total": 280
+      "total": 279
     },
     {
       "month": "2025-10",
@@ -124,7 +124,7 @@
     },
     {
       "date": "2025-09-24",
-      "count": 74
+      "count": 73
     },
     {
       "date": "2025-09-25",
