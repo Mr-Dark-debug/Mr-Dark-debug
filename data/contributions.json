@@ -1,22 +1,22 @@
 {
   "username": "Mr-Dark-debug",
-  "generated_at": "2026-10-24T00:00:00Z",
-  "as_of": "2026-10-24",
+  "generated_at": "2026-10-25T00:00:00Z",
+  "as_of": "2026-10-25",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
   "grid_range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-31"
   },
-  "total_contributions": 4249,
-  "active_days": 191,
+  "total_contributions": 4196,
+  "active_days": 189,
   "average_on_active_days": 22.2,
   "current_streak": {
-    "length": 2,
-    "start": "2026-10-22",
-    "end": "2026-10-23"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 17,
@@ -30,7 +30,7 @@
   "monthly_totals": [
     {
       "month": "2025-10",
-      "total": 285
+      "total": 232
     },
     {
       "month": "2025-11",
@@ -82,34 +82,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 1
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 52
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0
-    },
     {
       "date": "2025-10-26",
       "count": 35
@@ -1564,6 +1536,34 @@
     },
     {
       "date": "2026-10-24",
+      "count": 0
+    },
+    {
+      "date": "2026-10-25",
+      "count": 0
+    },
+    {
+      "date": "2026-10-26",
+      "count": 0
+    },
+    {
+      "date": "2026-10-27",
+      "count": 0
+    },
+    {
+      "date": "2026-10-28",
+      "count": 0
+    },
+    {
+      "date": "2026-10-29",
+      "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "count": 0
+    },
+    {
+      "date": "2026-10-31",
       "count": 0
     }
   ]
